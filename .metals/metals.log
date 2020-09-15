@@ -1,0 +1,79 @@
+2020.09.15 09:40:10 INFO  started: Metals version 0.9.3 in workspace 'D:\coding\algoexpert\medium' for client vscode.
+2020.09.15 09:40:12 INFO  time: initialize in 2.11s
+2020.09.15 09:40:13 WARN  no build tool detected in workspace 'D:\coding\algoexpert\medium'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.15 09:40:13 INFO  no build target: using presentation compiler with only scala-library
+2020.09.15 09:40:44 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+something's wrong: no file:///D:/coding/algoexpert/medium/Group%20Anagrams/GroupAnagrams.scala in Array[<error>]RangePosition(file:///D:/coding/algoexpert/medium/Group%20Anagrams/GroupAnagrams.scala, 44, 44, 59)
+something's wrong: no file:///D:/coding/algoexpert/medium/Group%20Anagrams/GroupAnagrams.scala in Array[<error>]RangePosition(file:///D:/coding/algoexpert/medium/Group%20Anagrams/GroupAnagrams.scala, 44, 44, 52)
+something's wrong: no file:///D:/coding/algoexpert/medium/Group%20Anagrams/GroupAnagrams.scala in Array[<error>]RangePosition(file:///D:/coding/algoexpert/medium/Group%20Anagrams/GroupAnagrams.scala, 44, 44, 54)
+something's wrong: no file:///D:/coding/algoexpert/medium/Group%20Anagrams/GroupAnagrams.scala in Array[<error>]RangePosition(file:///D:/coding/algoexpert/medium/Group%20Anagrams/GroupAnagrams.scala, 44, 44, 56)
+something's wrong: no file:///D:/coding/algoexpert/medium/Group%20Anagrams/GroupAnagrams.scala in Array[String]RangePosition(file:///D:/coding/algoexpert/medium/Group%20Anagrams/GroupAnagrams.scala, 44, 44, 57)
+something's wrong: no file:///D:/coding/algoexpert/medium/Group%20Anagrams/GroupAnagrams.scala in Array[String]RangePosition(file:///D:/coding/algoexpert/medium/Group%20Anagrams/GroupAnagrams.scala, 44, 44, 57)
+something's wrong: no file:///D:/coding/algoexpert/medium/Group%20Anagrams/GroupAnagrams.scala in Array[String]RangePosition(file:///D:/coding/algoexpert/medium/Group%20Anagrams/GroupAnagrams.scala, 44, 44, 57)
+2020.09.15 09:41:49 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 09:42:17 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 09:42:27 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 09:47:47 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 09:47:47 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 09:50:15 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 09:50:15 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 09:53:22 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 09:53:22 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 09:53:40 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 09:53:40 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 09:54:43 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 09:54:43 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 09:54:59 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 09:54:59 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 09:56:55 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 09:56:55 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 09:57:51 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 09:57:51 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 09:59:15 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 09:59:23 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 10:00:04 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 10:00:04 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 10:00:14 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 10:00:14 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 10:00:20 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 10:00:20 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 10:01:30 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 10:01:30 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 10:01:30 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 10:01:30 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 10:01:32 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 10:02:24 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 10:04:12 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 10:04:12 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 10:05:11 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 10:05:11 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 10:06:57 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+Sep 15, 2020 10:08:35 AM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: offset 197, count -1, length 217
+2020.09.15 10:08:46 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 10:08:46 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 10:09:01 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 10:09:01 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 10:09:37 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 10:09:37 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 10:10:03 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 10:10:03 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+something's wrong: no file:///D:/coding/algoexpert/medium/Group%20Anagrams/GroupAnagrams.scala in Array[String]RangePosition(file:///D:/coding/algoexpert/medium/Group%20Anagrams/GroupAnagrams.scala, 44, 44, 57)
+2020.09.15 10:10:41 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 10:10:43 INFO  shutting down Metals
+2020.09.15 15:59:34 INFO  started: Metals version 0.9.3 in workspace 'D:\coding\algoexpert\medium' for client vscode.
+2020.09.15 15:59:35 INFO  time: initialize in 1.12s
+2020.09.15 15:59:35 WARN  no build tool detected in workspace 'D:\coding\algoexpert\medium'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.15 15:59:35 INFO  no build target: using presentation compiler with only scala-library
+2020.09.15 15:59:37 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+Sep 15, 2020 4:00:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Sep 15, 2020 4:01:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+2020.09.15 16:01:55 INFO  shutting down Metals
+2020.09.15 16:02:27 INFO  started: Metals version 0.9.3 in workspace 'D:\coding\algoexpert\medium' for client vscode.
+2020.09.15 16:02:28 INFO  time: initialize in 1.19s
+2020.09.15 16:02:28 WARN  no build tool detected in workspace 'D:\coding\algoexpert\medium'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.15 16:02:28 INFO  no build target: using presentation compiler with only scala-library
+2020.09.15 16:02:31 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.15 16:16:29 INFO  shutting down Metals
