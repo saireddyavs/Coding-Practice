@@ -465,3 +465,54 @@ INFO: Unsupported notification method: $/setTraceNotification
 2020.09.17 17:19:40 INFO  time: initialize in 1.16s
 2020.09.17 17:19:41 WARN  no build tool detected in workspace 'D:\coding\algoexpert\medium'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 2020.09.17 18:13:04 INFO  shutting down Metals
+2020.09.17 23:20:33 INFO  started: Metals version 0.9.3 in workspace 'D:\coding\algoexpert\medium' for client vscode.
+2020.09.17 23:20:35 INFO  time: initialize in 1.52s
+2020.09.17 23:20:35 WARN  no build tool detected in workspace 'D:\coding\algoexpert\medium'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.17 23:20:35 INFO  no build target: using presentation compiler with only scala-library
+2020.09.17 23:20:39 WARN  no build target for: D:\coding\algoexpert\medium\CountCoinsCombinations\CountCoinsCombinations.scala
+Sep 17, 2020 11:20:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+Sep 17, 2020 11:20:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+Sep 17, 2020 11:20:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+Sep 17, 2020 11:20:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+Sep 17, 2020 11:20:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+Sep 17, 2020 11:20:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17
+Sep 17, 2020 11:20:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22
+Sep 17, 2020 11:20:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21
+Sep 17, 2020 11:20:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27
+something's wrong: no file:///D:/coding/algoexpert/medium/CountCoinsCombinations/CountCoinsCombinations.scala in Array[<error>]RangePosition(file:///D:/coding/algoexpert/medium/CountCoinsCombinations/CountCoinsCombinations.scala, 37, 37, 52)
+something's wrong: no file:///D:/coding/algoexpert/medium/CountCoinsCombinations/CountCoinsCombinations.scala in Array[<error>]RangePosition(file:///D:/coding/algoexpert/medium/CountCoinsCombinations/CountCoinsCombinations.scala, 37, 37, 45)
+something's wrong: no file:///D:/coding/algoexpert/medium/CountCoinsCombinations/CountCoinsCombinations.scala in Array[String]RangePosition(file:///D:/coding/algoexpert/medium/CountCoinsCombinations/CountCoinsCombinations.scala, 37, 37, 50)
+something's wrong: no file:///D:/coding/algoexpert/medium/CountCoinsCombinations/CountCoinsCombinations.scala in Array[String]RangePosition(file:///D:/coding/algoexpert/medium/CountCoinsCombinations/CountCoinsCombinations.scala, 37, 37, 50)
+something's wrong: no file:///D:/coding/algoexpert/medium/CountCoinsCombinations/CountCoinsCombinations.scala in Array[String]RangePosition(file:///D:/coding/algoexpert/medium/CountCoinsCombinations/CountCoinsCombinations.scala, 37, 37, 50)
+something's wrong: no file:///D:/coding/algoexpert/medium/CountCoinsCombinations/CountCoinsCombinations.scala in Array[String]RangePosition(file:///D:/coding/algoexpert/medium/CountCoinsCombinations/CountCoinsCombinations.scala, 37, 37, 50)
+2020.09.17 23:20:53 WARN  no build target for: D:\coding\algoexpert\medium\CountCoinsCombinations\CountCoinsCombinations.scala
+something's wrong: no file:///D:/coding/algoexpert/medium/CountCoinsCombinations/CountCoinsCombinations.scala in List[<error>]RangePosition(file:///D:/coding/algoexpert/medium/CountCoinsCombinations/CountCoinsCombinations.scala, 91, 91, 105)
+something's wrong: no file:///D:/coding/algoexpert/medium/CountCoinsCombinations/CountCoinsCombinations.scala in List[<error>]RangePosition(file:///D:/coding/algoexpert/medium/CountCoinsCombinations/CountCoinsCombinations.scala, 91, 91, 98)
+something's wrong: no file:///D:/coding/algoexpert/medium/CountCoinsCombinations/CountCoinsCombinations.scala in List[Int]RangePosition(file:///D:/coding/algoexpert/medium/CountCoinsCombinations/CountCoinsCombinations.scala, 91, 91, 100)
+something's wrong: no file:///D:/coding/algoexpert/medium/CountCoinsCombinations/CountCoinsCombinations.scala in List[Int]RangePosition(file:///D:/coding/algoexpert/medium/CountCoinsCombinations/CountCoinsCombinations.scala, 91, 91, 100)
+something's wrong: no file:///D:/coding/algoexpert/medium/CountCoinsCombinations/CountCoinsCombinations.scala in List[Int]RangePosition(file:///D:/coding/algoexpert/medium/CountCoinsCombinations/CountCoinsCombinations.scala, 91, 91, 100)
+2020.09.17 23:23:52 WARN  no build target for: D:\coding\algoexpert\medium\CountCoinsCombinations\CountCoinsCombinations.scala
+2020.09.17 23:23:52 WARN  no build target for: D:\coding\algoexpert\medium\CountCoinsCombinations\CountCoinsCombinations.scala
+2020.09.17 23:24:02 WARN  no build target for: D:\coding\algoexpert\medium\CountCoinsCombinations\CountCoinsCombinations.scala
+2020.09.17 23:24:02 WARN  no build target for: D:\coding\algoexpert\medium\CountCoinsCombinations\CountCoinsCombinations.scala
+2020.09.17 23:24:46 WARN  no build target for: D:\coding\algoexpert\medium\CountCoinsCombinations\CountCoinsCombinations.scala
+2020.09.17 23:24:46 WARN  no build target for: D:\coding\algoexpert\medium\CountCoinsCombinations\CountCoinsCombinations.scala
+2020.09.17 23:24:58 WARN  no build target for: D:\coding\algoexpert\medium\CountCoinsCombinations\CountCoinsCombinations.scala
+2020.09.17 23:24:58 WARN  no build target for: D:\coding\algoexpert\medium\CountCoinsCombinations\CountCoinsCombinations.scala
+2020.09.17 23:25:21 WARN  no build target for: D:\coding\algoexpert\medium\CountCoinsCombinations\CountCoinsCombinations.scala
+2020.09.17 23:25:21 WARN  no build target for: D:\coding\algoexpert\medium\CountCoinsCombinations\CountCoinsCombinations.scala
+2020.09.17 23:25:21 WARN  no build target for: D:\coding\algoexpert\medium\CountCoinsCombinations\CountCoinsCombinations.scala
+2020.09.17 23:25:55 WARN  no build tool detected in workspace 'D:\coding\algoexpert\medium'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.17 23:26:06 WARN  no build target for: D:\coding\algoexpert\medium\CountCoinsCombinations\CountCoinsCombinations.scala
+2020.09.17 23:26:06 WARN  no build target for: D:\coding\algoexpert\medium\CountCoinsCombinations\CountCoinsCombinations.scala
+2020.09.17 23:27:02 WARN  no build target for: D:\coding\algoexpert\medium\CountCoinsCombinations\CountCoinsCombinations.scala
+2020.09.17 23:28:40 INFO  shutting down Metals
