@@ -53,10 +53,10 @@ void heapDown(int parent)
     {
         big_child = right_child;
     }
- 
+
     // cout<<arr[big_child]<<"=>"<<arr[parent]<<endl;
 
-    if (big_child != parent && arr[big_child]>arr[parent])
+    if (big_child != parent && arr[big_child] > arr[parent])
     {
         swap(arr[big_child], arr[parent]);
         heapDown(big_child);
@@ -131,18 +131,18 @@ int main()
     remove(2);
     print();
 
-// 12 2
-// 12 2 1
-// 12 5 1 2
-// 12 7 1 2 5 
-// 12 7 10 2 5 1 
-// 15 7 12 2 5 1 10 
-// 15 13 12 7 5 1 10 2 
-// 15 13 12 9 5 1 10 2 7 
-// 15 13 12 9 7 1 10 2 
-// 15 13 12 9 7 2 10
-// 13 10 12 9 7 2 
-// 13 10 12 9 7 
+    // 12 2
+    // 12 2 1
+    // 12 5 1 2
+    // 12 7 1 2 5
+    // 12 7 10 2 5 1
+    // 15 7 12 2 5 1 10
+    // 15 13 12 7 5 1 10 2
+    // 15 13 12 9 5 1 10 2 7
+    // 15 13 12 9 7 1 10 2
+    // 15 13 12 9 7 2 10
+    // 13 10 12 9 7 2
+    // 13 10 12 9 7
 
     while (true)
     {
