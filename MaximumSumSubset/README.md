@@ -1,0 +1,1 @@
+# Maximum Sum in the Subset with the condition that, no two elements in the total sum must not be adjacent
