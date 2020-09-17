@@ -28,7 +28,7 @@ void heapUp(int child)
 
     int parent = child / 2;
 
-    while (parent > 0 && arr[child] < arr[parent])
+    while (parent > 0 && arr[child] > arr[parent])
     {
         swap(arr[parent], arr[child]);
         child = parent;
@@ -42,22 +42,24 @@ void heapDown(int parent)
     int left_child = parent * 2;
     int right_child = parent * 2 + 1;
 
-    int small_child = parent;
+    int big_child = parent;
 
-    if (left_child <= total_elements && arr[left_child] < arr[right_child])
+    if (left_child <= total_elements && arr[left_child] > arr[right_child])
     {
-        small_child = left_child;
+        big_child = left_child;
     }
 
-    if (right_child <= total_elements && arr[right_child] < arr[small_child])
+    if (right_child <= total_elements && arr[right_child] > arr[big_child])
     {
-        small_child = right_child;
+        big_child = right_child;
     }
+ 
+    // cout<<arr[big_child]<<"=>"<<arr[parent]<<endl;
 
-    if (small_child != parent && arr[small_child]<arr[parent])
+    if (big_child != parent && arr[big_child]>arr[parent])
     {
-        swap(arr[small_child], arr[parent]);
-        heapDown(small_child);
+        swap(arr[big_child], arr[parent]);
+        heapDown(big_child);
     }
 }
 
@@ -87,7 +89,7 @@ void remove(int element)
 
     int parent = i / 2;
 
-    if (parent > 0 && arr[parent] > arr[i])
+    if (parent > 0 && arr[parent] < arr[i])
     {
         heapUp(i);
     }
@@ -129,18 +131,18 @@ int main()
     remove(2);
     print();
 
-    // 2 12
-    // 1 12 2
-    // 1 5 2 12
-    // 1 5 2 12 7
-    // 1 5 2 12 7 10
-    // 1 5 2 12 7 10 15
-    // 1 5 2 12 7 10 15 13
-    // 1 5 2 9 7 10 15 13 12
-    // 1 7 2 9 12 10 15 13
-    // 2 7 10 9 12 13 15
-    // 2 7 10 9 12 13
-    // 7 9 10 13 12
+// 12 2
+// 12 2 1
+// 12 5 1 2
+// 12 7 1 2 5 
+// 12 7 10 2 5 1 
+// 15 7 12 2 5 1 10 
+// 15 13 12 7 5 1 10 2 
+// 15 13 12 9 5 1 10 2 7 
+// 15 13 12 9 7 1 10 2 
+// 15 13 12 9 7 2 10
+// 13 10 12 9 7 2 
+// 13 10 12 9 7 
 
     while (true)
     {
