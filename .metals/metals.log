@@ -459,3 +459,5 @@ INFO: Unsupported notification method: $/setTraceNotification
 2020.09.16 10:24:08 WARN  no build tool detected in workspace 'D:\coding\algoexpert\medium'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 2020.09.16 10:24:33 WARN  no build target for: D:\coding\algoexpert\medium\MaximumSumSubArray\MaximumSubArraySum.scala
 2020.09.16 10:26:02 INFO  shutting down Metals
+2020.09.17 14:25:02 INFO  started: Metals version 0.9.3 in workspace 'D:\coding\algoexpert\medium' for client vscode.
+2020.09.17 14:25:03 INFO  time: initialize in 1.77s
