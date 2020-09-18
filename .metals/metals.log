@@ -516,3 +516,11 @@ something's wrong: no file:///D:/coding/algoexpert/medium/CountCoinsCombinations
 2020.09.17 23:26:06 WARN  no build target for: D:\coding\algoexpert\medium\CountCoinsCombinations\CountCoinsCombinations.scala
 2020.09.17 23:27:02 WARN  no build target for: D:\coding\algoexpert\medium\CountCoinsCombinations\CountCoinsCombinations.scala
 2020.09.17 23:28:40 INFO  shutting down Metals
+2020.09.17 23:30:04 INFO  started: Metals version 0.9.3 in workspace 'D:\coding\algoexpert\medium' for client vscode.
+2020.09.17 23:30:05 INFO  time: initialize in 1.5s
+2020.09.17 23:30:06 WARN  no build tool detected in workspace 'D:\coding\algoexpert\medium'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.17 23:30:06 INFO  no build target: using presentation compiler with only scala-library
+2020.09.17 23:30:09 WARN  no build target for: D:\coding\algoexpert\medium\CountCoinsCombinations\CountCoinsCombinations.scala
+2020.09.17 23:33:48 WARN  no build target for: D:\coding\algoexpert\medium\CountCoinsCombinations\CountCoinsCombinations.scala
+2020.09.17 23:34:04 WARN  no build target for: D:\coding\algoexpert\medium\CountCoinsCombinations\CountCoinsCombinations.scala
+2020.09.17 23:34:19 INFO  shutting down Metals
