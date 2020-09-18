@@ -524,3 +524,441 @@ something's wrong: no file:///D:/coding/algoexpert/medium/CountCoinsCombinations
 2020.09.17 23:33:48 WARN  no build target for: D:\coding\algoexpert\medium\CountCoinsCombinations\CountCoinsCombinations.scala
 2020.09.17 23:34:04 WARN  no build target for: D:\coding\algoexpert\medium\CountCoinsCombinations\CountCoinsCombinations.scala
 2020.09.17 23:34:19 INFO  shutting down Metals
+2020.09.18 09:59:24 INFO  started: Metals version 0.9.3 in workspace 'D:\coding\algoexpert\medium' for client vscode.
+2020.09.18 09:59:25 INFO  time: initialize in 0.94s
+2020.09.18 09:59:26 WARN  no build tool detected in workspace 'D:\coding\algoexpert\medium'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.18 09:59:26 INFO  no build target: using presentation compiler with only scala-library
+2020.09.18 09:59:28 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+Sep 18, 2020 9:59:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Sep 18, 2020 9:59:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+Sep 18, 2020 9:59:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+Sep 18, 2020 9:59:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Sep 18, 2020 9:59:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+Sep 18, 2020 9:59:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+Sep 18, 2020 9:59:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+Sep 18, 2020 9:59:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+Sep 18, 2020 9:59:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20
+something's wrong: no file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala in Array[<error>]RangePosition(file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala, 111, 111, 126)
+something's wrong: no file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala in Array[<error>]RangePosition(file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala, 111, 111, 119)
+something's wrong: no file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala in Array[String]RangePosition(file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala, 111, 111, 124)
+something's wrong: no file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala in Array[String]RangePosition(file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala, 111, 111, 124)
+something's wrong: no file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala in Array[String]RangePosition(file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala, 111, 111, 124)
+2020.09.18 09:59:42 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+Sep 18, 2020 10:02:18 AM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+
+Sep 18, 2020 10:02:19 AM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+
+Sep 18, 2020 10:02:19 AM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+
+Sep 18, 2020 10:02:19 AM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+
+Sep 18, 2020 10:02:20 AM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+
+2020.09.18 10:02:23 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+something's wrong: no file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala in Array[<error>]RangePosition(file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala, 177, 177, 192)
+something's wrong: no file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala in Array[<error>]RangePosition(file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala, 177, 177, 185)
+something's wrong: no file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala in Array[<error>]RangePosition(file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala, 177, 177, 186)
+something's wrong: no file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala in Array[Int]RangePosition(file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala, 177, 177, 187)
+something's wrong: no file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala in Array[Int]RangePosition(file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala, 177, 177, 187)
+something's wrong: no file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala in Array[Int]RangePosition(file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala, 177, 177, 187)
+something's wrong: no file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala in Ordering[<error>]RangePosition(file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala, 232, 232, 250)
+something's wrong: no file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala in Ordering[<error>]RangePosition(file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala, 232, 232, 243)
+something's wrong: no file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala in Ordering[Int]RangePosition(file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala, 232, 232, 245)
+something's wrong: no file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala in Ordering[Int]RangePosition(file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala, 232, 232, 245)
+something's wrong: no file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala in Ordering[Int]RangePosition(file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala, 232, 232, 245)
+2020.09.18 10:04:13 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 10:05:42 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 10:05:42 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 10:06:57 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 10:06:57 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 10:07:13 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 10:07:13 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 10:08:06 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 10:08:06 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 10:08:52 INFO  shutting down Metals
+2020.09.18 10:12:11 INFO  started: Metals version 0.9.3 in workspace 'D:\coding\algoexpert\medium' for client vscode.
+2020.09.18 10:12:12 INFO  time: initialize in 0.94s
+2020.09.18 10:12:12 WARN  no build tool detected in workspace 'D:\coding\algoexpert\medium'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.18 10:12:12 INFO  no build target: using presentation compiler with only scala-library
+2020.09.18 10:12:15 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 10:12:51 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 10:13:05 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.18 10:13:19 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 10:13:33 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 10:13:46 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
+2020.09.18 10:13:54 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 10:13:54 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 10:13:54 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 10:14:05 WARN  no build tool detected in workspace 'D:\coding\algoexpert\medium'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.18 10:14:11 WARN  no build tool detected in workspace 'D:\coding\algoexpert\medium'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.18 10:14:15 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 10:14:15 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 10:15:48 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 10:15:48 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 10:16:17 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 10:16:17 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 10:16:31 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 10:16:31 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 10:16:55 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 10:16:55 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 10:17:10 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 10:17:10 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 10:17:11 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 10:17:11 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 10:17:11 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 10:17:27 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 10:17:27 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 10:17:46 INFO  shutting down Metals
+2020.09.18 11:00:27 INFO  started: Metals version 0.9.3 in workspace 'D:\coding\algoexpert\medium' for client vscode.
+2020.09.18 11:00:29 INFO  time: initialize in 1.82s
+2020.09.18 11:00:30 WARN  no build tool detected in workspace 'D:\coding\algoexpert\medium'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.18 11:00:30 INFO  no build target: using presentation compiler with only scala-library
+2020.09.18 11:00:34 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 11:01:28 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 11:01:45 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 11:01:46 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 11:01:46 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 11:03:52 ERROR scalafmt: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala:13: error: ; expected but def found
+      ovveride def compare(x: Int, y: Int): Int =
+               ^
+2020.09.18 11:03:52 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 11:03:58 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 11:04:53 WARN  no build tool detected in workspace 'D:\coding\algoexpert\medium'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.18 11:04:55 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 11:04:55 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 11:05:11 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 11:05:11 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 11:05:43 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 11:05:43 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 11:05:43 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 11:06:14 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 11:06:16 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 11:06:36 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 11:06:36 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 11:19:06 ERROR scalafmt: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala:12: error: => expected but identifier found
+    implicit  Int num=number;
+                  ^
+2020.09.18 11:19:06 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 11:19:06 ERROR scalafmt: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala:12: error: => expected but identifier found
+    implicit  Int num=number;
+                  ^
+2020.09.18 11:19:06 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 11:19:06 ERROR scalafmt: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala:12: error: => expected but identifier found
+    implicit  Int num=number;
+                  ^
+2020.09.18 11:19:06 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 11:19:45 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 11:20:29 ERROR scalafmt: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala:18: error: case expected but var found
+          var i:Int;
+          ^
+2020.09.18 11:20:29 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 11:20:36 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 11:20:51 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 11:21:06 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 11:40:07 INFO  shutting down Metals
+2020.09.18 12:00:42 INFO  started: Metals version 0.9.3 in workspace 'D:\coding\algoexpert\medium' for client vscode.
+2020.09.18 12:00:44 INFO  time: initialize in 1.71s
+2020.09.18 12:00:45 WARN  no build tool detected in workspace 'D:\coding\algoexpert\medium'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.18 12:00:45 INFO  no build target: using presentation compiler with only scala-library
+2020.09.18 12:00:49 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+Sep 18, 2020 12:00:59 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+
+Sep 18, 2020 12:00:59 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+
+Sep 18, 2020 12:00:59 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+
+Sep 18, 2020 12:01:08 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+
+2020.09.18 12:01:11 ERROR scalafmt: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala:12: error: illegal start of declaration (possible cause: missing `=' in front of current method body)
+    implicit val num: Int = number;
+    ^
+2020.09.18 12:01:11 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+Sep 18, 2020 12:01:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 58
+2020.09.18 12:01:52 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 12:01:58 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 12:02:31 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 12:02:31 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 12:04:36 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 12:07:46 WARN  no build tool detected in workspace 'D:\coding\algoexpert\medium'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Sep 18, 2020 12:07:46 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Sep 18, 2020 12:07:46 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: no context found for source-file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala,line-7,offset=83
+scala.reflect.internal.FatalError: no context found for source-file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala,line-7,offset=83
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:102)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:24)
+
+2020.09.18 12:07:49 WARN  no build tool detected in workspace 'D:\coding\algoexpert\medium'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Sep 18, 2020 12:07:49 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Sep 18, 2020 12:07:49 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: no context found for source-file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala,line-7,offset=174
+scala.reflect.internal.FatalError: no context found for source-file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala,line-7,offset=174
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:102)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:24)
+
+2020.09.18 12:08:35 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 12:08:35 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 12:09:01 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+Sep 18, 2020 12:09:33 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+
+Sep 18, 2020 12:09:33 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+
+Sep 18, 2020 12:09:33 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:444)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+
+2020.09.18 12:09:37 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 12:09:59 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 12:10:05 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 12:10:05 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 12:10:41 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+something's wrong: no file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala in Array[Int]RangePosition(file:///D:/coding/algoexpert/medium/MoveAllOccurancestoEnd/MoveAllOccurancestoEnd.scala, 308, 308, 318)
+2020.09.18 12:11:07 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 12:11:07 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 12:11:12 WARN  no build target for: D:\coding\algoexpert\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.18 12:11:20 WARN  no build target for: D:\coding\algoexpert\medium\Group Anagrams\GroupAnagrams.scala
