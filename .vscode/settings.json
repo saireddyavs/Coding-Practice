@@ -5,6 +5,7 @@
     "python.formatting.provider": "black",
     "files.associations": {
         "ostream": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "vector": "cpp"
     }
 }
