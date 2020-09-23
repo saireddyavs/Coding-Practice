@@ -36,7 +36,7 @@ void insert(struct Trie *root, string word)
 
         if (temp->store.find(i) == temp->store.end())
         {
-            temp->store[i] = newTrie();
+            temp->store[i] = new Trie();
         }
         temp = temp->store[i];
     }
