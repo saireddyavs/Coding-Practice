@@ -3,3 +3,6 @@
 2020.09.24 10:31:28 WARN  no build tool detected in workspace 'D:\coding\practicedaily\medium'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 Sep 24, 2020 10:31:38 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTraceNotification
+2020.09.24 10:34:51 INFO  no build target: using presentation compiler with only scala-library
+2020.09.24 10:34:51 WARN  no build target for: D:\coding\practicedaily\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
+2020.09.24 10:37:57 INFO  shutting down Metals
