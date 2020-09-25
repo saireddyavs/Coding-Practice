@@ -44,7 +44,7 @@ void heapDown(int parent)
 
     int small_child = parent;
 
-    if (left_child <= total_elements && arr[left_child] < arr[right_child])
+    if (left_child <= total_elements && arr[left_child] < arr[small_child])
     {
         small_child = left_child;
     }
