@@ -11,7 +11,7 @@ using namespace std;
 pair<int, int> longestConsecutiveSequence(vector<int> arr)
 {
 
-    unordered_map<int, bool> m;
+    unordered_map<int, bool> m;  
 
     for (auto i : arr)
         m.insert({i, false});
