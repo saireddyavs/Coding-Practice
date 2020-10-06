@@ -1,0 +1,1 @@
+You are given an array A, of N elements. Find minimum index based distance between two elements x and y of the array
