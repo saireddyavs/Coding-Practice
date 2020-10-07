@@ -1,0 +1,1 @@
+using the fact that prime number have only 1 and itself as factors.
