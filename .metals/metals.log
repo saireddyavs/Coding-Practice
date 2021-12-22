@@ -6,3 +6,7 @@ INFO: Unsupported notification method: $/setTraceNotification
 2020.09.24 10:34:51 INFO  no build target: using presentation compiler with only scala-library
 2020.09.24 10:34:51 WARN  no build target for: D:\coding\practicedaily\medium\MoveAllOccurancestoEnd\MoveAllOccurancestoEnd.scala
 2020.09.24 10:37:57 INFO  shutting down Metals
+2020.11.07 21:32:40 INFO  started: Metals version 0.9.4 in workspace 'D:\coding\practicedaily\medium' for client vscode.
+2020.11.07 21:32:41 INFO  time: initialize in 1.73s
+2020.11.07 21:32:42 WARN  no build tool detected in workspace 'D:\coding\practicedaily\medium'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.11.07 21:36:00 INFO  shutting down Metals
